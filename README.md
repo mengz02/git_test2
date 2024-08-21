@@ -1,3 +1,3 @@
 # git_test2
-My seconf Github Repo!
+My second Github Repo!
 Hello Odin!
